@@ -1,0 +1,8 @@
+name: TitleChanger
+main: main.java.net.bigbadcraft.titlechanger.TitleChanger
+version: 1.0.0
+depend: [Vault]
+author: [BigBadHenz]
+commands:
+  title:
+    description: The main command.

@@ -1,0 +1,15 @@
+#How many characters should titles limit to
+title-length: 8
+#What words should titles exclude
+reserved-words:
+- dick
+- fuck
+- idiot
+- admin
+- owner
+#REQUIRED - Place all your group names and the group's color below. Format (group name case sensitive): <groupname>:<chatcolor>
+#Please consult this ChatColor reference - http://jd.bukkit.org/rb/apidocs/org/bukkit/ChatColor.html
+player-groups:
+- Member:gray
+- Admin:blue
+- Owner:red
